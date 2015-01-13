@@ -3,7 +3,7 @@
   "version": "0.1.5",
   "author": "Andrew Tomaka, Steffen Roegner, Igor Galic, Uwe Kleinmann, Matt Klich, Sebastien Badia",
   "summary": "Puppet GitLab Module",
-  "license": "GPLv3",
+  "license": "GPL-3.0",
   "source": "git://github.com/sbadia/puppet-gitlab.git",
   "project_page": "https://github.com/sbadia/puppet-gitlab/",
   "issues_url": "https://github.com/sbadia/puppet-gitlab/issues",
